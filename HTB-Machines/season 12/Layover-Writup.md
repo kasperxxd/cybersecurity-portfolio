@@ -4,6 +4,7 @@
 ```sudo nmap -p- 10.129.74.114 --min-rate 1000```
 
 ![[Screenshot 2026-09-28 131216.png]]
+
 The scan revealed the available open ports on the target. These ports showed me which services were accessible and gave me the initial direction for further enumeration.
 
 Step 2 — Connect via RDP : After identifying the accessible services, I used the provided `contractor` credentials to connect to the target through RDP.
