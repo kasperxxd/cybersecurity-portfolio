@@ -1,4 +1,6 @@
-##Step 1 — Initial Scan: I started by scanning the target to identify the open TCP ports and determine which services were exposed.
+# Layover - Writup 
+
+# Step 1 — Initial Scan: I started by scanning the target to identify the open TCP ports and determine which services were exposed.
 ```sudo nmap -p- 10.129.74.114 --min-rate 1000```
 
 ![[Screenshot 2026-09-28 131216.png]]
