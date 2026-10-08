@@ -1,4 +1,4 @@
-<img width="676" height="440" alt="Screenshot 2026-10-08 055011" src="https://github.com/user-attachments/assets/a2955cda-fd1e-4d0a-85fa-ef8b80acd4e6" /># Step 1 — Initial Scan
+# Step 1 — Initial Scan
 I started by performing a full TCP port scan against the target to identify exposed services and determine the initial attack surface.
 
 ```bash
